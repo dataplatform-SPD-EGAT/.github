@@ -65,7 +65,14 @@ git commit
 
 ## 👩‍💻 Useful resources:
 
+[How to write the markdown ?](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## 🍿 Fun facts:
 
-##🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Q: WHO is the solo guitarist of this project ?
+A: N' Tum.
+
+##🧙 Special Credit to:
+
+![https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white](https://img.shields.io/badge/AI-Tensorflow-red)
+
