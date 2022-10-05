@@ -68,6 +68,16 @@ git add
 git commit
 ```
 
+## 🔋 Contribution
+| Type of contribution                      | Contribution method                                                              |
+| ----------------------------------------- | -------------------------------------------------------------------------------- |
+| - Support<br/>- Question<br/>- Discussion | Post on the [**Arduino Forum**][forum]                                           |
+| - Bug report<br/>- Feature request        | Issue report (see the guide [**here**][issues])                                  |
+| Testing                                   | Beta testing, PR review (see the guide [**here**][beta-testing])                 |
+| Translation                               | See the guide [**here**][translate]                                              |
+| - Bug fix<br/>- Enhancement               | Pull request (see the guide [**here**][prs])                                     |
+| Monetary                                  | - [Donate][donate]<br/>- [Sponsor][sponsor]<br/>- [Buy official products][store] |
+
 
 ## 👩‍💻 Useful resources:
 
