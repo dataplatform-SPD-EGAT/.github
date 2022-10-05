@@ -1,4 +1,4 @@
-## Hi there 👋
+## Data Platform has been crafted into the Energy Industry 👋
 
 ![Lakehouse Platform](https://github.com/dataplatform-SPD-EGAT/.github/blob/main/profile/lakehouse.png)
 
