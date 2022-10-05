@@ -1,4 +1,4 @@
-## 🙋‍♀️ Data & Analytics Platform has been crafted into the Energy Industry 
+## 🙋‍♀️ Artificial Intelligence in the Power Sector
 **Data & Analytics Platform** has been crafted into the Energy Industry
 
 ![Lakehouse Platform](https://github.com/dataplatform-SPD-EGAT/.github/blob/main/profile/lakehouse.png)
