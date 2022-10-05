@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+![Lakehouse Platform(https://github.com/dataplatform-SPD-EGAT/.github/blob/main/profile/lakehouse.png)
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
+
+
 
 ## 🌈 Contribution guidelines:
 < การตั้งชื่อตัวแปรที่จะพบในโปรเจค TMO ครั้งนี้>
@@ -63,16 +67,21 @@ git add
 git commit
 ```
 
+
 ## 👩‍💻 Useful resources:
 
 [How to write the markdown ?](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+
+
 ## 🍿 Fun facts:
 
-Q: WHO is the solo guitarist of this project ?
-A: N' Tum.
+**Q:** WHO is the solo guitarist of this project ?
+**A:** ✨_N' Tum_✨.
 
-## 🧙 Special Credit to:
+
+
+## 🧙 Special Credit:
 
 ![https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white](https://img.shields.io/badge/AI-Tensorflow-red)
 
