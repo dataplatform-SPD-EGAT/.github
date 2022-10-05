@@ -4,10 +4,10 @@
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
-## 🌈 Contribution guidelines:?
+## 🌈 Contribution guidelines:
 < การตั้งชื่อตัวแปรที่จะพบในโปรเจค TMO ครั้งนี้>
 
-###**Naming Convention**
+### Naming Convention
 1. lower snake: จะใช้งานตัวพิมพ์เล็กทั้งหมด และคั่นด้วยเครื่องหมาย \_ (Under Score)
    1.1 ใช้เป็นชื่อ method
    เช่น maximize_window()
@@ -37,18 +37,35 @@
    เช่น UserName, SummaryValue
    5.1 ใช้ในการตั้งชื่อ class ของ python/JS
    เช่น
-
-###** Project Setup **
-
-Some basic Git commands are:
+ 
+### Project Setup
+1. Ask Admin to add your account into the team.
+2. Try command "git clone" to download the project.
+```
+git clone <project.git>
+```
+3. Add local Git to Remote git
 ```
 git status
 git add
 git commit
 ```
 
-##👩‍💻 Useful resources: - where can the community find your docs? Is there anything else the community should know?
+4. Add local Git to Remote git
+```
+branch <> <>
+```
 
-##🍿 Fun facts - what does your team eat for breakfast?
+4. Have fun !!!
+```
+git status
+git add
+git commit
+```
+
+## 👩‍💻 Useful resources:
+
+
+## 🍿 Fun facts:
 
 ##🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
