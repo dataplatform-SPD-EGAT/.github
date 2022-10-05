@@ -72,7 +72,7 @@ git commit
 Q: WHO is the solo guitarist of this project ?
 A: N' Tum.
 
-##🧙 Special Credit to:
+## 🧙 Special Credit to:
 
 ![https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white](https://img.shields.io/badge/AI-Tensorflow-red)
 
