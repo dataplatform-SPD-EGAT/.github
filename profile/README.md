@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Lakehouse Platform(https://github.com/dataplatform-SPD-EGAT/.github/blob/main/profile/lakehouse.png)
+![Lakehouse Platform](https://github.com/dataplatform-SPD-EGAT/.github/blob/main/profile/lakehouse.png)
 
 **Here are some ideas to get you started:**
 
