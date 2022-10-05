@@ -3,17 +3,14 @@
 
 ![Lakehouse Platform](https://github.com/dataplatform-SPD-EGAT/.github/blob/main/profile/lakehouse.png)
 
-**Here are some ideas to get you started:**
-
-👋 A short introduction:
-
+👋 This project is a datalakehouse for initiative project of **TMO (Transformation Management Office)** for generation and transmission planning at EGAT (Electricity Generating Authority of Thailand).
 
 
 
 
 
 ## 🌈 Contribution guidelines:
-< การตั้งชื่อตัวแปรที่จะพบในโปรเจค TMO ครั้งนี้>
+< การตั้งชื่อตัวแปรที่จะพบในโปรเจคครั้งนี้>
 
 ### Naming Convention
 1. lower snake: จะใช้งานตัวพิมพ์เล็กทั้งหมด และคั่นด้วยเครื่องหมาย \_ (Under Score)
