@@ -1,10 +1,14 @@
-## Data Platform has been crafted into the Energy Industry 👋
+## 🙋‍♀️ Data & Analytics Platform has been crafted into the Energy Industry 
+**Data & Analytics Platform** has been crafted into the Energy Industry
 
 ![Lakehouse Platform](https://github.com/dataplatform-SPD-EGAT/.github/blob/main/profile/lakehouse.png)
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+👋 A short introduction:
+
+
+
 
 
 
@@ -74,10 +78,15 @@ git commit
 
 
 
+
+
+
 ## 🍿 Fun facts:
 
 **Q:** WHO is the solo guitarist of this project ?
 **A:** ✨_N' Tum_✨.
+
+
 
 
 
